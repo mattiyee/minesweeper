@@ -1,0 +1,9 @@
+# ninja log v5
+6	1606	7357048629777163	CMakeFiles/minesweeper.dir/main.cpp.obj	4aa6b868b2647adb
+25	1284	7356868021894159	CMakeFiles/minesweeper.dir/WelcomeWindow.cpp.obj	6ac82f55d16629e0
+3	1025	7357095049582204	CMakeFiles/minesweeper.dir/GameWindow.cpp.obj	932e9ff7ed005bee
+30	1829	7357820363934728	build.ninja	a0e05a81f60ed62c
+1026	1925	7357095058555633	minesweeper.exe	bf170881fc269bb0
+4	501	7350329119383112	CMakeFiles/minesweeper.dir/Algorithms.cpp.obj	ae59f668ee28b926
+4	727	7357051675305923	CMakeFiles/minesweeper.dir/LeaderboardWindow.cpp.obj	3b3ca7a57e0cbff
+85	2024	7355322780883170	CMakeFiles/minesweeper.dir/test.cpp.obj	2b45e7fa88dd5425
